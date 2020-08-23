@@ -1,1 +1,1 @@
-First week exercises completed and validating all tests provided by the course.
+First week exercises completed using both NetBeans and IntelliJ. Validating all tests provided by the course.
