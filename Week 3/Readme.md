@@ -1,1 +1,1 @@
-Second week exercises completed using both NetBeans and IntelliJ. Validating all tests provided by the course.
+Third week exercises completed using both NetBeans and IntelliJ. Validating all tests provided by the course.
